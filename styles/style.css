@@ -245,12 +245,10 @@
   display: flex;
   flex-direction: row;
   gap: 48px;
+  padding: 0 0 43px 27px;
 }
 .footer__menu-link {
   font-size: 18px;
-}
-.footer__social-list {
-  padding: 0 0 43px 27px;
 }
 .address_footer {
   max-width: 267px;
