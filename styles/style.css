@@ -53,29 +53,28 @@
 }
 .cover__title {
   position: relative;
-  padding-bottom: 85px;
+  padding-bottom: 106px;
   z-index: 2;
 }
 .aligned-text {
   display: block;
-  height: 149px;
   font-weight: bold;
   font-size: 100px;
   line-height: 115%;
   letter-spacing: 0.3em;
   text-transform: uppercase;
   color: #fff;
-  padding: 0 50px 106px;
+  padding: 0 50px 0;
 }
 .aligned-text_left {
   padding-top: 165px;
 }
 .aligned-text_center {
   text-align: center;
-  padding: 28px 0 0 31px;
+  padding: 19px 0 0 31px;
 }
 .aligned-text_right {
-  padding: 14px 0 0 664px;
+  padding: 20px 0 0 664px;
 }
 .cover__description {
   position: relative;
@@ -184,7 +183,6 @@
 
 .about {
   padding-bottom: 13px;
-  min-height: 595px;
 }
 .about__column {
   display: grid;
@@ -198,14 +196,14 @@
   height: 240px;
   border-radius: 100%;
   background: #000;
-  margin: 3px 0 0 71px;
+  margin: 1px 0 0 71px;
 }
 .about__logo-image {
   width: 149px;
   height: 114px;
 }
 .about__text {
-  padding: 105px 27px 0 49px;
+  padding: 102px 27px 0 49px;
 }
 .about__title {
   font-weight: bold;
@@ -226,7 +224,7 @@
   grid-template-columns: repeat(3, 1fr);
   align-items: center;
   padding: 0 50px 82px;
-  margin-top: 148px;
+  margin-top: 167px;
   gap: 100px;
 }
 .footer__social-icon {
